@@ -15,8 +15,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Hello :)
-  This is **Seunghyeong**'s Github page.
+  Hi :)
+  I'm **Seunghyeong**.
 
 # A list of keywords for your blog
 keywords:              []
@@ -28,8 +28,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Seunghyeong> <Choe>
-  email:               <sseunng@gmail.com>
+  name:                Seunghyeong Choe
+  email:               sseunng@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
