@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 Seunghyeong:
   # Replace <...> with your own (remove the < >)
-  name:              <Seunghyeong> <Choe>
-  email:             <sseunng@gmail.com>
+  name:              Seunghyeong Choe
+  email:             sseunng@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,8 +28,8 @@ Seunghyeong:
   social:
     github:          sseunng
     # download:        <url>
-    email:           <sseunng@gmail.com>
-    instagram:       <seungbucks>
+    email:           sseunng@gmail.com
+    instagram:       seungbucks
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -40,7 +40,6 @@ Seunghyeong:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    #
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
