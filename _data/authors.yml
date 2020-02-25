@@ -1,10 +1,10 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
-author1:
+Seunghyeong:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Seunghyeong> <Choe>
+  email:             <sseunng@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,10 +26,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         jekyllrb
-    github:          qwtel/hydejack
+    github:          sseunng
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           <sseunng@gmail.com>
+    instagram:       <seungbucks>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -40,7 +40,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    #
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

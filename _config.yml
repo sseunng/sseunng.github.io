@@ -38,7 +38,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Posts
-    url:               /Example/
+    url:               /example/
   - title:             Documentation
     url:               https://hydejack.com/docs/
 
