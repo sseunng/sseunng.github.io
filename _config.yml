@@ -55,8 +55,7 @@ menu:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /about/
-#/:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
