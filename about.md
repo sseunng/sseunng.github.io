@@ -15,8 +15,10 @@ I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research
 
 ## Education
 **UNIST (Ulsan National Institute of Science and Technology)**
+
 M.S. student in Computer Science & Engineering
-- Adviser : Ph.D. Sungahn Ko
+
+Adviser : Ph.D. Sungahn Ko
 
 **University of Ulsan**
 B.S. in Electrical Engineering and IT Convergence
@@ -39,3 +41,5 @@ B.S. in Electrical Engineering and IT Convergence
 - Competition for Engineering Design (Introduction to Engineering Design, University of Ulsan Electrical Engineering Dept.) 1st prize
 
 [lab]: https://ivaderlab.unist.ac.kr/
+[cert1]: /files/hcert01.pdf
+[cert02]: /files/hcert02.pdf
