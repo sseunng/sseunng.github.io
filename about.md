@@ -29,7 +29,6 @@ Graduate student Mar. 2020 - Present
 Undergraduate intern Aug. 2018 - Jun. 2019
 
 **Hanium ICT Mentoring**  
-Mentee  
 * Daily life assistant using Magic Mirror and AI speaker, Sep.2019 - Jan. 2020 [Certification][cert01]
 * AI speaker which works with Magic Display, Apr. 2019 - Nov. 2019 [Certification][cert02]
 
