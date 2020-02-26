@@ -36,7 +36,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about.md
+    url:               /about/
   - title:             Posts
     url:               /example/
   - title:             Documentation
