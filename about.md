@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: About me
+title: About
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -21,24 +21,24 @@ I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research
 {:.lead}
 
 ## Education
-**UNIST (Ulsan National Institute of Science and Technology)**
-M.S. student in Computer Science & Engineering
-- Adviser : Ph.D. Sungahn Ko
+**UNIST (Ulsan National Institute of Science and Technology)**  
+M.S. student in Computer Science & Engineering  
+Adviser : Ph.D. Sungahn Ko
 
-**University of Ulsan**
+**University of Ulsan**  
 B.S. in Electrical Engineering and IT Convergence
 
 
 ## Experiences
-**Interactive Visual Analytics and Data Exploration Research Lab** (Ph.D. Sungahn Ko)
- - Undergraduate intern Jul.2019 - Feb. 2020
- - Graduate student Mar. 2020 - Present
-**Programming System Lab** (Ph.D. Myung Joon Lee)
- - Undergraduate intern Aug. 2018 - Jun. 2019
+**Interactive Visual Analytics and Data Exploration Research Lab** (Ph.D. Sungahn Ko)  
+Undergraduate intern Jul.2019 - Feb. 2020  
+Graduate student Mar. 2020 - Present  
+**Programming System Lab** (Ph.D. Myung Joon Lee)  
+Undergraduate intern Aug. 2018 - Jun. 2019
 **Hanium ICT Mentoring**
- - Mentee 
-    - Daily life assistant using Magic Mirror and AI speaker, Sep.2019 - Jan. 2020
-    - AI speaker which works with Magic Display, Apr. 2019 - Nov. 2019
+  Mentee 
+  - Daily life assistant using Magic Mirror and AI speaker, Sep.2019 - Jan. 2020
+  - AI speaker which works with Magic Display, Apr. 2019 - Nov. 2019
 
 
 ## Awards
