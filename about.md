@@ -16,6 +16,8 @@ hide_description: true
 # TODO
 ---
 
+# About
+
 I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research Lab][lab] at UNIST(Ulsan National Institute of Science and Technology).
 {:.lead}
 
