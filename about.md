@@ -1,13 +1,14 @@
 ---
 layout: about
 
-title: About me
+title: About
 
 description: >
-I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research Lab][lab] at UNIST(Ulsan National Institute of Science and Technology)
+I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research Lab][lab] at UNIST(Ulsan National Institute of Science and Technology).
 
 hide_description: true
-
+# TODO
+image: /assets/img/blog/hydejack-8.png
 ---
 # About
 I'm a M.S student at [Interactive Visual Analytics and Data Exploration Research Lab][lab] at UNIST(Ulsan National Institute of Science and Technology).
