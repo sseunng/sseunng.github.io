@@ -20,7 +20,6 @@ Adviser : Ph.D. Sungahn Ko
 **University of Ulsan**  
 B.S. in Electrical Engineering and IT Convergence
 
-
 ## Experiences
 **Interactive Visual Analytics and Data Exploration Research Lab** (Ph.D. Sungahn Ko)  
 Undergraduate intern Jul.2019 - Feb. 2020  
@@ -31,13 +30,12 @@ Undergraduate intern Aug. 2018 - Jun. 2019
 
 **Hanium ICT Mentoring**  
 Mentee  
-   Daily life assistant using Magic Mirror and AI speaker, Sep.2019 - Jan. 2020 [Certification][cert01]
-   AI speaker which works with Magic Display, Apr. 2019 - Nov. 2019 [Certification][cert02]
-
+* Daily life assistant using Magic Mirror and AI speaker, Sep.2019 - Jan. 2020 [Certification][cert01]
+* AI speaker which works with Magic Display, Apr. 2019 - Nov. 2019 [Certification][cert02]
 
 ## Awards
-2019 한국컴퓨터종합학술대회 학부생/주니어논문경진대회 학부생부문 장려상 (Aug. 2019, 한국정보과학회)  
-Competition for Engineering Design (Introduction to Engineering Design, University of Ulsan Electrical Engineering Dept.) 1st prize  
+* 2019 한국컴퓨터종합학술대회 학부생/주니어논문경진대회 학부생부문 장려상 (Aug. 2019, 한국정보과학회)
+* Competition for Engineering Design (Introduction to Engineering Design, University of Ulsan Electrical Engineering Dept.) 1st prize
 
 
 [lab]: https://ivaderlab.unist.ac.kr/
