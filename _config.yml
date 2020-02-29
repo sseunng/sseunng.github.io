@@ -37,8 +37,8 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Posts
-    url:               /example/
+  - title:             Archive
+    url:               /archive/
   - title:             Documentation
     url:               https://hydejack.com/docs/
 
