@@ -1,12 +1,14 @@
-# Site settings
-title:예림이의 첫 번째 생일에 초대합니다.
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "sseunng.github.io" # the base hostname & protocol for your site
+# Config
+# ========================================================================================
+url:                   https://sseunng.github.io
+baseurl:               ''
+lang:                  ko-KR
 
-twitter_username:
-github_username:
+# The title of your blog. Used in the sidebar and the browser tab.
+title:                 1st Birthday
+
+# A short description (~150 chars) of the page used for the meta description tag.
+# Can use markdown, but no more than one paragraph (enforced by `>`)
 
 # Build settings
 markdown: kramdown
